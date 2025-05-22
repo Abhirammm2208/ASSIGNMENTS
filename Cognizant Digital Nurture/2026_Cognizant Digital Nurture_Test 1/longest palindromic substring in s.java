@@ -2,40 +2,7 @@
 
 Given a string s, return the longest palindromic substring in s.
 
-Input format :
-The input consists of a single line containing a string S.
-
-Output format :
-The output prints a single line containing the longest palindromic substring of the input string.
-
-If there are multiple substrings of the same maximum length, output any one of them.
-
-Refer to the sample output for the formatting specifications.
-
-Code constraints :
-In this scenario, the given test cases will fall under the following constraints:
-
-1 ≤ S ≤ 50.
-
-S consists of only digits and English letters.
-
-Sample test cases :
-Input 1 :
-forgeeksskeegfor
-Output 1 :
-geeksskeeg
-Input 2 :
-aaaabbaa
-Output 2 :
-aabbaa
-Input 3 :
-Geeks
-Output 3 :
-ee
-Input 4 :
-acacacb
-Output 4 :
-cacac*/
+*/
 
 import java.util.Scanner;
 
